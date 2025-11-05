@@ -1,2 +1,1 @@
-# Description
-These are two projects and some small exercises in **Computer Programming** in my second year of undergraduate school. Two projects mainly focus on the manual construction of MLE in the logit model. Python was used as the programming language.
+There are two projects and some small exercises in **Computer Programming** course during my second year in Jinan University. Two projects mainly focus on the manual construction of maximum 1og-likelihood estimation.
